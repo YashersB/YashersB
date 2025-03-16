@@ -1,4 +1,4 @@
-<h3 align="center">EE @ UCLA</h3>
+<h3 align="center">Yash Bhagat, EE @ UCLA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
